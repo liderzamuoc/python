@@ -1,4 +1,5 @@
-# python
+# Web Scraping con python
+
 En esta práctica, se ha podido extraer los datos climáticos de la pagina https://www.meteored.com.ec/ de las ciudadades más importantes del Ecuador.
 los datos que se extraen son nombre de la ciudad, temperatura máxima y temperatura minima.
 
