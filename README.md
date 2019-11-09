@@ -15,5 +15,5 @@ En esta web vemos que podemos realizar web scraping, ya que nos da los permisos 
 podemos verificar el archivo robots.txt en https://www.meteored.com.ec/robots.txt como podemos tambien acceder a su API
 https://www.meteored.com.ec/api/#/login.
 
-Tenemos la facilidad de gererar un archivo scv con los datos climaticos de otros paises. 
+Tenemos la facilidad de gererar un archivo csv con los datos climaticos de otros paises. 
 Se ha trabajado con un dataset tipo DataFrame.
