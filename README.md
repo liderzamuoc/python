@@ -5,7 +5,9 @@ los datos que se extraen son nombre de la ciudad, temperatura máxima y temperat
 Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
 pip install pandas
+
 pip install requests
+
 pip install beautifulsoup4 (sino se instala esta libreria se puede probar asi pip install bs4)
 
 En esta web vemos que podemos realizar web scraping, ya que nos da los permisos para hacerlo.
